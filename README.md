@@ -2,8 +2,8 @@
 Repositório criado com intuito de armazenar e disponibilizar link's de Certificados de conclusão de cursos, seminários, eventos de tecnologia, bootcamps's, etc
 
 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg width="40" height="40"" />
             
 
 ![Angular JS](https://user-images.githubusercontent.com/32331120/175646861-85c8f6c7-6510-4bed-8277-75d029f75cda.jpg)
