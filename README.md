@@ -3,9 +3,9 @@ Repositório criado com intuito de armazenar e disponibilizar link's de Certific
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> Git 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> AngularJS
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> Java
+                    
             
 
 ![Angular JS](https://user-images.githubusercontent.com/32331120/175646861-85c8f6c7-6510-4bed-8277-75d029f75cda.jpg)
